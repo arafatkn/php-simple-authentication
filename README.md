@@ -1,4 +1,5 @@
-# php-simple-authentication
+# Simple Authentication using PHP & Mysql
+##### Login, Registration, Dashboard, Logout
 
 #### How to install-
 1. Copy all the files into localhost's sub directory.
